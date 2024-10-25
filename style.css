@@ -1,0 +1,21 @@
+body{
+    background-image: url()
+}   
+table{
+    width: 1000px;
+    margin: 25px auto;
+}
+th{
+    background-color: coral;
+    text-align: left;
+    padding: 35px 0;
+}
+td{
+    background-color: khaki;
+    height: 500px;
+}
+.menu{
+    background-color: darkgoldenrod;
+    margin-left: 50px;
+}   
+
