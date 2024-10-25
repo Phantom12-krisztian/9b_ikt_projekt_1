@@ -1,0 +1,66 @@
+body{
+    background-color: snow;
+}
+.main{
+    width: 1000px;
+    margin: auto;
+    padding: 25px;
+}
+.banner{
+
+}
+.banner h1{
+    font-family: 'Sofia';font-size: 50px;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-align: center;
+   
+}
+
+nav{
+    background-color: aquamarine;
+    margin: 25px 0;
+    border: none;
+    font-size: 200%;
+}
+nav ul{
+    list-style-type: none;
+    overflow: hidden;
+
+}
+nav li{
+    float: left;
+  margin-right: 30px;
+  padding: 15px;
+}
+nav a{
+    text-decoration: none;
+    display: block;
+}
+nav li:hover{
+    background-color: midnightblue;
+    border-radius: 25px;
+    
+}
+nav a:hover{
+    color: aqua;
+}
+nav ul li:hover ul{
+    display: block;
+}
+.lezar{
+    clear: both;
+    border:none
+}
+.contetnt{
+
+}
+div{
+    border: 1px solid black;
+   
+}
+.active{
+    color: aqua;
+    background-color: midnightblue;
+    border-radius: 25px;
+}
